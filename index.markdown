@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+# JiJue's Blog
